@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
+    
 
     // variable declaration
     int i, number;
@@ -22,6 +22,5 @@ int main()
         }
     }
     printf("\n\n\n\t\t\t%d is not a perfect square\n", number);
-    printf("\n\n\t\t\tCoding is Fun !\n\n\n");
     return 0;
 }
